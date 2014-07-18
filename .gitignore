@@ -14,6 +14,9 @@ $RECYCLE.BIN/
 *.msm
 *.msp
 
+#emacs backup files
+*~
+
 # =========================
 # Operating System Files
 # =========================
